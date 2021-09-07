@@ -3,4 +3,5 @@ I will try to update the code with translated version soon.  Here are daily code
 
 This helps the team to simplify the process of updating data and to improve the effiency of work. 
 
+
 **Python** is indeed useful!
