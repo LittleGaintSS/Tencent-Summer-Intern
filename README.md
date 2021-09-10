@@ -6,3 +6,5 @@ This helps the team to simplify the process of updating data and to improve the 
 During the intern, I mainly use pandas, numpy, openpyxl and matplotlib modules.
 
 **Python** is indeed useful!
+
+P.s. The daily data cannot be uploaded into Github due to restriction of the company. 
